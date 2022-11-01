@@ -1,0 +1,53 @@
+header
+{
+	height: 100px;
+	background: #0b111f;
+}
+
+section
+{
+	height: 1000px;
+	background: url(img_php_2.jpg);
+}
+
+footer
+{
+	height: 100px;
+	background: #96aafc;
+}
+
+h1
+{
+	display: flex;
+	justify-content: center;
+	font-family: sans-serif;
+	font-size: 50px;
+	color: #ffffff;
+	-webkit-text-stroke: 1px black;
+}
+
+h3
+{
+	color:#ede70f;
+	font-family: sans-serif;
+}
+
+#caja_de_registro
+{
+	float: left;
+	margin-left: 40px;
+}
+
+#caja_de_registro form input
+{
+	display: block;
+	width: 500px;
+	height: 70px;
+	margin-top: 25px;
+}
+
+input
+{
+	text-align:center;
+	font-size: medium;
+}

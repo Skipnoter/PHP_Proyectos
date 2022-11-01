@@ -1,0 +1,68 @@
+header, section, footer{
+		
+		width: 960px;
+		margin-left: auto;
+		 margin-right: auto;
+		
+		
+}
+
+header
+{
+	background: #7c7e93;
+	height: 50px;
+}
+
+section
+{
+	background: #6aa010;
+	height: 500px;
+}
+
+footer
+{
+	background: #6abfff;
+	height: 30px;
+}
+
+h2
+{
+	margin-left: 350px;
+}
+
+#aclaracion
+{
+	float: left;
+	margin-top: 30px;
+	margin-left: 200px;
+}
+
+#fecha
+{
+	float: left;
+	clear: left;
+	margin-left: 350px;
+	margin-top: 50px;
+}
+
+#resultado
+{
+	float: left;
+	margin-top: 20px;
+	margin-left: 350px;
+}
+
+a
+{
+	float: left;
+	clear: left;
+	margin-left: 20px;
+	text-decoration: none;
+	color:#ffffff;
+	font-family: sans-serif;
+}
+
+a:hover
+{
+	color:#ffff3c;
+}

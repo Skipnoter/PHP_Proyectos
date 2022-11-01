@@ -1,0 +1,100 @@
+header
+{
+	margin-left: auto;
+	margin-right: auto;
+	width: 1024px;
+	background: #edc688;
+}
+
+#cabecera
+{
+	width: 1024px;
+}
+
+#titulos
+{
+	height: 100px;
+}
+
+h1
+{
+	margin-left: 300px;
+}
+
+.inicio
+{
+	font-size: 20px;
+	margin-left: 20px;
+}
+
+section
+{
+	margin-left: auto;
+	margin-right: auto;
+	width: 1024px;
+	background: #609ecc;
+}
+
+#seccion
+{
+	width: 1024px;
+	height: 500px;
+}
+
+#agua
+{
+	float: left;
+}
+
+#links
+{
+	height: 100px;
+	margin-left: 200px;
+	margin-top: 80px;
+	float: left;
+}
+
+#links a
+{
+	text-decoration: none;
+	padding: 80px;
+	font-size: 25px;
+
+}
+
+a
+{
+	color:#000000;
+	
+}
+
+a:hover
+{
+	color: #ffffff;
+}
+
+
+
+h2
+{
+	margin-left: 350px;
+}
+
+footer
+{
+	margin-left: auto;
+	margin-right: auto;
+	width: 1024px;
+	background: #604da0;
+}
+
+#pie
+{
+	width: 1024px;
+	height: 50px;
+}
+
+
+
+
+

@@ -1,0 +1,89 @@
+header, section,footer
+{
+	width: 1280px;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+
+header
+{
+	background: #0b111f;
+	height: 100px;
+}
+
+section
+{
+	background-image: url("img_php_2.jpg"); 
+	height: 1000px;
+}
+
+footer
+{
+	background: #96aafc;
+	height: 80px;
+}
+
+#botonera
+{
+	width: 400px;
+	height: 20px;
+	float: left;
+
+}
+
+
+#botonera ul li
+{
+	display: inline;
+}
+
+#botonera ul li a
+{
+
+display: inline-block;
+text-decoration: none;
+color: #ffffff;
+padding: 30px 20px;
+}
+
+#botonera ul li a:hover{
+
+color: #e2f022;
+
+}
+
+#clases
+{
+	width: 350px;
+	float: left;
+	margin: 10px;
+	border: 1px solid #ede70f;
+
+}
+
+#caja_de_registro
+{
+
+	width: 100px;
+	height: auto;
+	float: left;
+	margin-top: 30px;
+
+}
+
+#caja_de_registro input 
+{
+	display: block;
+	width: 250px;
+	height: 50px;
+	margin-bottom: 20px;
+	margin-left: 20px;
+}
+
+p
+{
+
+	color:#ffffff;
+
+}

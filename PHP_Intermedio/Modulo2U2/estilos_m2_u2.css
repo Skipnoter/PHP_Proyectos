@@ -1,0 +1,77 @@
+header
+{
+	height: 70px;
+	background: #778274;
+}
+
+section
+{
+	height: 500px;
+	background: #8080ed;
+}
+
+footer
+{
+	height: 50px;
+	background: #141414;
+}
+
+nav 
+{
+	margin-top:10px; 
+	margin-left: 30px;
+	float: left;
+}
+
+nav ul li
+{
+	display: inline;
+	padding: 25px;
+	text-decoration: none;
+}
+
+nav ul li:hover
+{
+	background: #000000;
+}
+
+a
+{
+	text-decoration: none;
+	color: #ffffff;
+}
+
+
+main
+{
+	float: left;
+	margin-top: 50px;
+	margin-left: 20px;
+}
+
+input
+{
+	display: block;
+	margin-left: 250px;
+	margin-top: 5px;
+	padding: 10px;
+}
+
+img
+{
+	margin-left: 250px;
+	margin-top: 5px;
+}
+
+h2
+{
+	text-decoration: none;
+	font-family: Courier, "Lucida Console", monospace;
+}
+
+#ingreso
+{
+	float: left;
+	margin-top: 50px;
+	margin-left: 300px;
+}

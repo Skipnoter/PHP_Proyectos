@@ -1,0 +1,127 @@
+header
+{
+	height: 70px;
+	background: #778274;
+}
+
+section
+{
+	height: auto;
+	background: #8080ed;
+}
+
+footer
+{
+	height: 50px;
+	background: #141414;
+}
+
+nav
+{
+	float: left;
+	margin-top: 10px;
+}
+
+nav ul li
+{
+	display: inline;
+	padding: 25px;
+
+}
+
+nav ul li:hover
+{
+	background: #000000;
+}
+
+a
+{
+	text-decoration-line: none;
+	color: #ffffff;
+}
+
+
+#caja_principal_ver_p
+{
+	height: 200px;
+	
+}
+
+
+#caja_principal_ver_p_s
+{
+	height: 200px;
+}
+
+#caja_principal_mostrar_todo
+{
+	height: 300px;
+	margin-left: 400px;
+}
+
+#caja_principal_mostrar_todo_2
+{
+	float: left;
+	margin-top: 50px;
+}
+
+h1
+{
+	float: left;
+	margin-left: 550px;
+}
+
+#productos 
+{
+	border: 1px solid #ede70f;
+	width: 600px;
+	margin-left: 400px;
+	margin-top: 20px;
+
+}
+
+.espe
+{
+	margin-left: 50px;
+}
+
+.espe_E_A
+{
+	color: green;
+	margin-left: 50px;
+	text-shadow: 1px 2px 2px black;
+}
+
+.espe_E_S
+{
+	color: red;
+	margin-left: 50px;
+	text-shadow: 1px 2px 2px black;
+	letter-spacing: 1px;
+}
+
+.img
+{
+	margin-left: 200px;
+}
+
+p a
+{
+	text-decoration: none;
+	margin-left: 20px;
+	border-style:outset;
+	color: #4d4d4d;
+	background: #ffffff;
+
+}
+
+p a:hover
+{
+	
+	border-style:groove;
+
+	
+}
+
+
+

@@ -1,0 +1,53 @@
+header, section, footer
+{
+		
+	width: 960px;
+	margin-left: auto;
+	margin-right: auto;
+		
+
+}
+
+header
+{
+	height: 50px;
+	background: #a49e9d;
+}
+
+section
+{
+	height: 2000px;
+	background: #214972;
+}
+
+footer
+{
+	height: 30px;
+	background: #663f8a;
+}
+
+form
+{
+	float: left;
+	margin-top: 30px;
+	margin-left: 50px;
+}
+
+#listado
+{
+	float: left;
+	clear: left;
+	padding: 20px;
+}
+
+h1
+{
+	margin-left: 350px;
+	font-family: cursive,sans-serif;
+}
+
+p
+{
+	color: #eeedf5;
+	border: 2px solid #006f00;
+}

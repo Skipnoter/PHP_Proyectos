@@ -1,0 +1,7 @@
+si queremos cambiar de ciclos con los que se hizo la actividad n°2, hay que entrar al editor de texto, y cambiar las barras de comentarios:
+
+-si queremos que se ejecute con el ciclo "for" tenemos que poner las barras de comentarios en las lineas: 39 el "/*" y luego "*/" en 52, tambien "/*" en 54 y luego "*/" en 68.
+
+-si queremos que se ejecute en el ciclo "while" tenemos que poner las barras de comentarios en las lineas: 28 el "/*" y luego "*/" en 37, tambien "/*" en 54 y luego "*/" en 68.
+
+-si queremos que se ejecute con el ciclo "do-while" tenemos que poner las barras de comentarios en las lineas: 28 el "/*" y luego "*/" en 37, tambien "/*" en 39 y luego "*/" en 52.
